@@ -1,1 +1,1 @@
-# revelo.
+# revelo-binary-only
