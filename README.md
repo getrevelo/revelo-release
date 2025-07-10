@@ -7,10 +7,6 @@ A powerful VS Code extension designed by Revelo to streamline your project manag
 
 Access: https://github.com/getrevelo/revelo-release/tags
 
-Note: Features such as the Slack functionality (below) will not be avaliable in Beta till late 2025.
-
-<img width="370" alt="Screenshot 2025-07-08 at 19 01 35" src="https://github.com/user-attachments/assets/d47bd08d-0fb8-4526-99f7-c5c0c57b09f5" />
-
 
 ## Features
 
