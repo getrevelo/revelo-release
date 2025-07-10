@@ -1,11 +1,8 @@
 # revelo. 
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/getrevelo/revelo-release/v0.0.1-beta.1)](https://github.com/getrevelo/revelo-release/releases/tag/v0.0.1-beta.1)
-
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/getrevelo/revelo-release?include_prereleases)](https://github.com/getrevelo/revelo-release/releases/tag/v0.0.1-beta.1)
 
 A powerful VS Code extension designed by Revelo to streamline your project management and Git workflow directly within your editor. Automate commits and integrate seamlessly with your GitHub repositories.
-
-Access: https://github.com/getrevelo/revelo-release/tags
 
 
 ## Features
